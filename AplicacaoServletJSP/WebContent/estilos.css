@@ -1,0 +1,27 @@
+body {
+	/* background-color: #FFE0C1; */
+	background-color: rgb(212,212,212); 
+	/*background-color: lightgreen;*/
+}
+
+#login, #cadastro {
+	padding: 20px;
+	margin: 20px;
+	width: 300px;
+	background-color: rgb(255,255,255);
+	
+	/* sombreamento */
+	box-shadow: rgb(0,0,0) 5px 5px 5px; /* chrome */
+	
+	border-radius: 10px;
+	
+	/* centralizar horizontalmente */
+	position: absolute;
+	left: 50%;
+	margin-left: -170px;	 
+}
+
+td.texto {
+	font-family: Verdana;
+	font-size: 12px;
+}

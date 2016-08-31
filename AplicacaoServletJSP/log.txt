@@ -1,0 +1,8 @@
+[23/05/2016 10:34:33.808] Atribuito substituido
+[23/05/2016 10:34:33.813] Atribuito adicionado na sessao
+[23/05/2016 10:34:33.818] Atribuito substituido
+[23/05/2016 10:34:35.967] Atribuito substituido
+[23/05/2016 10:34:35.967] Sessão destruida
+[23/05/2016 10:34:35.968] Atribuito removido na sessao
+[23/05/2016 10:34:35.973] Atribuito substituido
+[23/05/2016 10:34:35.974] Sessão criada
